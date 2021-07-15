@@ -14,7 +14,7 @@
             android:padding="10dp"
             android:text="Contact US"
             android:textSize="30dp"
-            android:textColor="color/balck"
+            android:textColor="@color/colorBlack"
 
             android:textStyle="bold" />
 
@@ -53,7 +53,7 @@
                         android:padding="5dp"
                         android:textIsSelectable="true"
                         android:text="Shop Number 67 68 69 Ground Floor\nApple World Shopping Center,\nMG Road, Jakat Naka,\nLudhiana  - 141123"
-                        android:textColor="@colors/colorGrey"
+                        android:textColor="#CECECE"
                         android:textSize="16dp"
                         android:textStyle="bold" />
                 </LinearLayout>
